@@ -4,7 +4,6 @@ applications:
   memory: 64M
   instances: 1
   host: pcf-hugo-workshop
-  domain: cfapps.io
   path: public
   buildpack: staticfile_buildpack
 

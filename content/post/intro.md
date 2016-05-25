@@ -2,13 +2,13 @@
 Categories = ["agenda","workshop"]
 Tags = ["logistics","speakers"]
 date = "2016-03-15T16:23:23+09:00"
-title = "Welcome to the Pivotal Cloud Foundry Workshop@GM Austin"
+title = "Welcome to the Pivotal Cloud Foundry Workshop@Garmin Olathe"
 type = "Introduction"
 weight = 1
 +++
 ##### Location
 
-Corvette 2nd Floor Austin
+Garmin 2nd Floor Olathe
 
 ##### Date and Time
 Date: **April 26 , 2016**
@@ -23,9 +23,9 @@ Click to get the Agenda, Prerequisites and Setup for the workshop.
 
         Broad Agenda (We will have breaks in between sessions)
 
-        9:30 - 10:30: GM's Current and Desired Model of Software Delivery (3 Use Cases) -- Mano and GM Team
+        9:30 - 10:30: Garmin's Current and Desired Model of Software Delivery (3 Use Cases) -- Mano and Garmin Team
 
-        10:30 - 11:30: Pivotal (and VMWare)'s approach to GM's desired state (Fulfilment of Use Cases)- Pivotal
+        10:30 - 11:30: Pivotal (and VMWare)'s approach to Garmin's desired state (Fulfilment of Use Cases)- Pivotal
 
         == LUNCH ==
 
